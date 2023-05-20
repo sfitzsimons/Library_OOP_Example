@@ -1,8 +1,8 @@
-Author: Sean Fitzsimons-O'Connor
+Author: Sean Fitzsimons
 Date: 05/09/2023
-Description: Application class does manipulations with binary tree, accepting input from command line and keyboard.
+Description: Application class does manipulations with List ADT, accepting input from command line and keyboard.
 Instructions and comments are in the program and design document.
-Overflow exception is thrown when size of stack exceeds 100 elements.
+Overflow exception is thrown when size of list exceeds 100 elements.
 
 
 Files included:
